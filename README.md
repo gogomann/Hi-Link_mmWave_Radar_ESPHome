@@ -23,15 +23,20 @@ CEM5855H = LD1115H
 
 ## No Plan to Support:   
 LD2410: ESPHome Official Support Already   
-LD2420: ESPHome Official Support Already   
-LD7901B: 79Ghz Water Level Radar   
+LD2420: ESPHome Official Support Already
+LD2450: 24GHz witere Codes: https://github.com/0ingchun/arduino-lib_HLK-LD2450_Radar/
+ 
+LD2451: 24GHz Motorrad
+LD2461: 24Ghz ?    
+  
 LD303: 24Ghz Leagacy Model    
 LD116: 24Ghz Leagacy Model   
 LD101: 10Ghz Leagacy Model   
 LD102: 10Ghz Leagacy Model   
 LD105: 5.8Ghz Leagacy Model   
 LD010: 5.8Ghz Leagacy Model   
-LD015: 5.8Ghz Leagacy Model   
+LD015: 5.8Ghz Leagacy Model
+LD7901B: 79Ghz Water Level Radar    
 
 ## Reference:  
   ESPHOME:  

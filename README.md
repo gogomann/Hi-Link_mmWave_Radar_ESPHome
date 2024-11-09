@@ -25,8 +25,8 @@ CEM5855H = LD1115H
 LD2410: ESPHome Official Support Already   
 LD2420: ESPHome Official Support Already
 LD2450: 24GHz witere Codes: https://github.com/0ingchun/arduino-lib_HLK-LD2450_Radar/
- 
-LD2451: 24GHz Motorrad
+
+LD2451: 24GHz Motorrad ![alt text](/LD2451/1919.webp)
 LD2461: 24Ghz ?    
   
 LD303: 24Ghz Leagacy Model    

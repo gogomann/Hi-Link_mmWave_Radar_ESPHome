@@ -1,3 +1,4 @@
+# eines vor weg alles was ich so gefunden habe im Netz oder hier in Github oder im Forum, alles ungetestet
 # Hi-Link mmWave Radar For ESPHome
 Suggest used ESP-IDF framework to improve efficiency and stabilized.   
 If using Arduino Framework, disconnect the UART cable might cause API error(disconnect).

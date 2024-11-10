@@ -26,6 +26,8 @@ LD2410: ESPHome Official Support Already
 LD2420: ESPHome Official Support Already
 LD2450: 24GHz witere Codes: https://github.com/0ingchun/arduino-lib_HLK-LD2450_Radar/
 
+
+[HLK-LD2451](../sensoren/radar/LD2451/README.md)
 LD2451: 24GHz Motorrad ![alt text](/LD2451/1919.webp)
 LD2461: 24Ghz ?    
   

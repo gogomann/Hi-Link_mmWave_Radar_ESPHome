@@ -25,7 +25,7 @@ CEM5855H = LD1115H
 [HLK-LD2410](sensoren/radar/LD2410/README.md): 24GHz ESPHome Official Support Already
 Es gibt noch weiter Versionen!!! Später [hlk] :bowtie: `:bowtie:`
 
-<img src="sensoren/radar/LD2410/hlk-LD2410_from_hlktech.net.png" width=30% height=30% align="rigth">
+<img src="sensoren/radar/LD2410/hlk-LD2410_from_hlktech.net.png" width=30% height=30%>
 
 ---
 
@@ -59,5 +59,3 @@ LD7901B: 79Ghz Water Level Radar
     https://esphome.io/custom/uart.html  
     https://esphome.io/components/uart.html  
     https://esphome.io/components/sensor/custom.html   
-
-[hlk]: img/logo_hlk.png{: height="36px" width="36px"}

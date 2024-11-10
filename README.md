@@ -22,13 +22,25 @@ CEM5855H = LD1115H
 
 
 ## No Plan to Support:   
-LD2410: ESPHome Official Support Already   
-LD2420: ESPHome Official Support Already
+[HLK-LD2410](sensoren/radar/LD2410/README.md): 24GHz ESPHome Official Support Already
+Es gibt noch weiter Versionen!!! Später [hlk] :bowtie: `:bowtie:`
+
+<img src="sensoren/radar/LD2410/hlk-LD2410_from_hlktech.net.png" width=30% height=30% align="rigth">
+
+---
+
+[HLK-LD2420](sensoren/radar/LD2420):24GHz ESPHome Official Support Already [hlk]
+
+<img src="sensoren/radar/LD2420/HLK-LD2420_from_hlktech.net.png" width=30% height=30%>
+
+---
+
 LD2450: 24GHz witere Codes: https://github.com/0ingchun/arduino-lib_HLK-LD2450_Radar/
 
 
-[HLK-LD2451](sensoren/radar/LD2451/README.md)
-LD2451: 24GHz Motorrad ![alt text](sensoren/radar/LD2451/1919.webp)
+[HLK-LD2451](sensoren/radar/LD2451/README.md): 24GHz Motorrad 
+
+<img src="sensoren/radar/LD2451/1919.webp" width=30% height=30%>
 
 LD2461: 24Ghz ?    
   
@@ -47,3 +59,5 @@ LD7901B: 79Ghz Water Level Radar
     https://esphome.io/custom/uart.html  
     https://esphome.io/components/uart.html  
     https://esphome.io/components/sensor/custom.html   
+
+[hlk]: img/logo_hlk.png{: height="36px" width="36px"}

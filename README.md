@@ -9,8 +9,8 @@ If using Arduino Framework, disconnect the UART cable might cause API error(disc
 :white_check_mark: LD017 IIC/GPIO output, IIC/GPIO for sensitivity adjustable >[Link](./sensoren/radar/LD017)     
 :negative_squared_cross_mark: LD016 GPIO output, UART for sensitivity adjustable   
 :white_check_mark: LD012 GPIO output with sensitivity adjustable pins >[Link](./sensoren/radar/LD012)  
-:negative_squared_cross_mark: LD6001   
-:negative_squared_cross_mark: LD7903A   
+:o: LD6001   
+:o: LD7903A   
 
 Code at each Radar Folder   
 Note: Don't use 5V on LD017, LD012, LD2420   

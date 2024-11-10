@@ -29,13 +29,15 @@ Es gibt noch weiter Versionen!!! Später [hlk]
 
 ---
 
-[HLK-LD2420](sensoren/radar/LD2420):24GHz ESPHome Official Support Already
+[HLK-LD2420](sensoren/radar/LD2420): 24GHz, ? Traget, 8m 
+
+ESPHome Official Support Already
 
 <img src="sensoren/radar/LD2420/HLK-LD2420_from_hlktech.net.png" width=30% height=30%>
 
 ---
 
-[LD2450](sensoren/radar/LD2450/README.md): 24GHz mit 3 Target. 7.5 m, 1T2R   
+[HLK-LD2450](sensoren/radar/LD2450/README.md): 24GHz, 3 Target, 7.5 m, 1T2R   
 
 <img src="sensoren/radar/LD2450/hlk-LD2450_hlktech.net.png" width=30% height=30%>
 
@@ -43,7 +45,7 @@ hier noch eine andere Quelle und weitere Codes: https://github.com/0ingchun/ardu
 
 ---
 
-[HLK-LD2451](sensoren/radar/LD2451/README.md): 24GHz Motorrad 
+[HLK-LD2451](sensoren/radar/LD2451/README.md): 24GHz, 100m Motorrad 
 
 <img src="sensoren/radar/LD2451/1919.webp" width=30% height=30%>
 

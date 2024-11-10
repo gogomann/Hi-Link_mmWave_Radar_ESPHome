@@ -1,0 +1,90 @@
+# Basic ESPHome Config
+esphome:
+  name: radar_sensor
+  friendly_name: Radar Sensor
+
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+
+# WiFi Einstellungen
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  
+  # Aktiviere Access Point Mode falls WLAN-Verbindung fehlschlägt
+  ap:
+    ssid: "Radar Sensor Fallback"
+    password: !secret ap_password
+
+# API für Home Assistant
+api:
+  encryption:
+    key: !secret api_encryption_key
+
+ota:
+  password: !secret ota_password
+
+# Logger für Debugging
+logger:
+  level: INFO
+
+# UART Konfiguration für HLK-LD2451
+uart:
+  tx_pin: GPIO17
+  rx_pin: GPIO16
+  baud_rate: 256000
+  id: uart_bus
+
+# Sensor Konfiguration
+sensor:
+  - platform: hlk_ld2451
+    uart_id: uart_bus
+    presence:
+      name: "Radar Presence"
+    has_target:
+      name: "Radar Has Target"
+    has_moving_target:
+      name: "Moving Target"
+    exercise_intensity:
+      name: "Exercise Intensity"
+    x_coordinate:
+      name: "Target X Coordinate"
+    y_coordinate:
+      name: "Target Y Coordinate"
+    movement_speed:
+      name: "Movement Speed"
+    location_type:
+      name: "Location Type"
+    static_distance:
+      name: "Static Distance"
+    body_movement_params:
+      name: "Body Movement Parameters"
+    update_interval: 1s
+
+# Binary Sensor für Anwesenheitserkennung
+binary_sensor:
+  - platform: hlk_ld2451
+    uart_id: uart_bus
+    presence_detection:
+      name: "Presence Detection"
+    movement_detection:
+      name: "Movement Detection"
+    static_presence:
+      name: "Static Presence"
+
+# Nummer-Komponenten für Konfiguration
+number:
+  - platform: hlk_ld2451
+    uart_id: uart_bus
+    detection_range:
+      name: "Detection Range"
+      min_value: 0.5
+      max_value: 6
+      step: 0.1
+    sensitivity:
+      name: "Sensitivity"
+      min_value: 0
+      max_value: 9
+      step: 1

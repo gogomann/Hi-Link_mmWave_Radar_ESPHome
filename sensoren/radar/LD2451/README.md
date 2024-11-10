@@ -1,6 +1,7 @@
 # HKL-LD2451 Motorrad 24 GHz Multi Target
 
-Das ich eine 
+Die meisten Infos kommen vom Hersteller: [https://www.hlktech.net/index.php?id=1282](https://www.hlktech.net/index.php?id=1282).
+
 
 
 ----
@@ -11,11 +12,16 @@ Das ich eine
 
 <img src="./scann 1920.webp" width=90% height=90%>
 
+## ESPHome
+ist automatisch erstellt worden von clude: [clude_hlk-ld2452.yaml](sensoren/radar/LD2451/clude_hlk-ld2452.yaml). Ist also ungestetet :warning: .
 
-PIN definition
+## PIN definition
 
-| pin number | notation | name(of a thing) | functionnality |
-| ---------- | ------------- |:-------------:| -------------:|
+PCB grösse : 70mm x 35mm <br>
+Pin hole spacing: 2.54mm
+
+| pin nr. | notation | name(of a thing) | functionnality |
+| ------------ | ------------- |:-------------:| :-------------|
 | 1 | VIN | Power input | Power supply input 5V |
 | 2 | GND | power ground | power ground |
 | 3 | OT1 | GPIO1 | Indicator pin, 3 consecutive high and low outputs on first startup Outputs high level when a person is detected approaching |

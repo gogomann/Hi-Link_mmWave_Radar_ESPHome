@@ -1,4 +1,10 @@
 # eines vor weg alles was ich so gefunden habe im Netz oder hier in Github oder im Forum, alles ungetestet
+
+hier will ich das Sensoren auflisten und das was ich brauce um sie zu nutzen. 
+Radar und Clima Sensoren sind geplant
+
+ENS160 + AHT21 Sensor for Arduino, gefunden https://www.instructables.com/ENS160-AHT21-Sensor-for-Arduino/
+
 # Hi-Link mmWave Radar For ESPHome
 Suggest used ESP-IDF framework to improve efficiency and stabilized.   
 If using Arduino Framework, disconnect the UART cable might cause API error(disconnect).
@@ -48,6 +54,8 @@ hier noch eine andere Quelle und weitere Codes: https://github.com/0ingchun/ardu
 [HLK-LD2451](sensoren/radar/LD2451/README.md): 24GHz, 100m Motorrad 
 
 <img src="sensoren/radar/LD2451/1919.webp" width=30% height=30%>
+
+---
 
 LD2461: 24Ghz ?    
   

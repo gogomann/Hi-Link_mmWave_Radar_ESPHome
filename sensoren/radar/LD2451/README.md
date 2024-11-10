@@ -7,7 +7,7 @@ Das ich eine
 
 ----
 
-<a href="/HLK-LD2451_User_Manual_V1.0.pdf" class="image fit">PDF</a>
+<a href="./HLK-LD2451_User_Manual_V1.0.pdf" class="image fit">PDF</a>
  
  
  [HLK-LD2450](/Users/mac-gogomann/Documents/_ESP/Hi-Link_mmWave_Radar_ESPHome/sensoren/radar/LD2451/HLK-LD2451 User Manual V1.0.pdf)

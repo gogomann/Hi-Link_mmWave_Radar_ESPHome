@@ -21,7 +21,7 @@ CEM5825F = LD1125H
 CEM5855H = LD1115H   
 
 
-## No Plan to Support:   
+## work on Plan to Support:   
 [HLK-LD2410](sensoren/radar/LD2410/README.md): 24GHz ESPHome Official Support Already
 Es gibt noch weiter Versionen!!! Später [hlk]
 
@@ -29,14 +29,19 @@ Es gibt noch weiter Versionen!!! Später [hlk]
 
 ---
 
-[HLK-LD2420](sensoren/radar/LD2420):24GHz ESPHome Official Support Already [hlk]
+[HLK-LD2420](sensoren/radar/LD2420):24GHz ESPHome Official Support Already
 
 <img src="sensoren/radar/LD2420/HLK-LD2420_from_hlktech.net.png" width=30% height=30%>
 
 ---
 
-LD2450: 24GHz witere Codes: https://github.com/0ingchun/arduino-lib_HLK-LD2450_Radar/
+[LD2450](sensoren/radar/LD2450/README.md): 24GHz mit 3 Target. 7.5 m, 1T2R   
 
+<img src="sensoren/radar/LD2450/hlk-LD2450_hlktech.net.png" width=30% height=30%>
+
+hier noch eine andere Quelle und weitere Codes: https://github.com/0ingchun/arduino-lib_HLK-LD2450_Radar/
+
+---
 
 [HLK-LD2451](sensoren/radar/LD2451/README.md): 24GHz Motorrad 
 

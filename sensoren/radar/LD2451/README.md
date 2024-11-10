@@ -2,7 +2,7 @@
 
 Das ich eine 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/534px-PDF_file_icon.svg.png" width="24" height="24"> [LK-LD2451 User Manual V1.0.pdf](./HLK-LD2451 User Manual V1.0.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/534px-PDF_file_icon.svg.png" width="24" height="24"> [LK-LD2451 User Manual V1.0.pdf](./sensoren/radar/LD2451/HLK-LD2451 User Manual V1.0.pdf)
 
 
  [HLK-LD2450](/Users/mac-gogomann/Documents/_ESP/Hi-Link_mmWave_Radar_ESPHome/sensoren/radar/LD2451/HLK-LD2451 User Manual V1.0.pdf)

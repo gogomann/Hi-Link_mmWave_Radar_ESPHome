@@ -3,7 +3,7 @@
 Suggest used ESP-IDF framework to improve efficiency and stabilized.   
 If using Arduino Framework, disconnect the UART cable might cause API error(disconnect).
 ## Plan to Support:
-:white_check_mark: LD1115H UART/GPIO output, UART with sensitivity adjustable >[Link](./LD1115H)    
+:white_check_mark: LD1115H UART/GPIO output, UART with sensitivity adjustable >[Link](./sensoren/radar/LD1115H)    
 :white_check_mark: LD1125H UART output, UART with sensitivity adjustable >[Link](./LD1125H)     
 :white_check_mark: LD112 GPIO output without adjustable >[Link](./LD112)  
 :white_check_mark: LD017 IIC/GPIO output, IIC/GPIO for sensitivity adjustable >[Link](./LD017)     
@@ -23,7 +23,7 @@ CEM5855H = LD1115H
 
 ## No Plan to Support:   
 [HLK-LD2410](sensoren/radar/LD2410/README.md): 24GHz ESPHome Official Support Already
-Es gibt noch weiter Versionen!!! Später [hlk] :bowtie: `:bowtie:`
+Es gibt noch weiter Versionen!!! Später [hlk]
 
 <img src="sensoren/radar/LD2410/hlk-LD2410_from_hlktech.net.png" width=30% height=30%>
 

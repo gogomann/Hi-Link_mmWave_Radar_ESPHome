@@ -4,11 +4,11 @@ Suggest used ESP-IDF framework to improve efficiency and stabilized.
 If using Arduino Framework, disconnect the UART cable might cause API error(disconnect).
 ## Plan to Support:
 :white_check_mark: LD1115H UART/GPIO output, UART with sensitivity adjustable >[Link](./sensoren/radar/LD1115H)    
-:white_check_mark: LD1125H UART output, UART with sensitivity adjustable >[Link](./LD1125H)     
-:white_check_mark: LD112 GPIO output without adjustable >[Link](./LD112)  
-:white_check_mark: LD017 IIC/GPIO output, IIC/GPIO for sensitivity adjustable >[Link](./LD017)     
+:white_check_mark: LD1125H UART output, UART with sensitivity adjustable >[Link](./sensoren/radar/LD1115H)     
+:white_check_mark: LD112 GPIO output without adjustable >[Link](./sensoren/radar/LD112)  
+:white_check_mark: LD017 IIC/GPIO output, IIC/GPIO for sensitivity adjustable >[Link](./sensoren/radar/LD017)     
 :negative_squared_cross_mark: LD016 GPIO output, UART for sensitivity adjustable   
-:white_check_mark: LD012 GPIO output with sensitivity adjustable pins >[Link](./LD012)  
+:white_check_mark: LD012 GPIO output with sensitivity adjustable pins >[Link](./sensoren/radar/LD012)  
 :negative_squared_cross_mark: LD6001   
 :negative_squared_cross_mark: LD7903A   
 

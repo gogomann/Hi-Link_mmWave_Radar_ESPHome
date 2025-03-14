@@ -1,3 +1,24 @@
+### das Benutzerhandbuch für das HLK-LD6001A-60G Radar-Modul    
+von Shenzhen Hi-link Electronics Co., Ltd. überprüft. Hier sind die wichtigsten    
+technischen Details und der Schaltplan, um den Sensor zum Laufen zu bringen:
+
+### Produktmerkmale   
+Erkennungsmethode: Millimeterwellenradar, nicht beeinträchtigt durch Licht, Temperatur, Staub, etc.    
+Erkennungsbereich: 0,5 bis 8 Meter, mit einem Radius von 3,5 Metern bei einer Installationshöhe von 2,7 Metern.    
+Kommunikationsmethode: TTL-Seriellport.    
+Betriebsfrequenz: 60-64 GHz.    
+Stromversorgung: 3,3V.   
+Leistungsaufnahme: Durchschnittlich 0,3W, Spitzenleistung 1,7W.    
+Elektrische Eigenschaften   
+
+### Pin-Beschreibung:   
+3V3: Modulstromversorgung.    
+NRST: Modul-Reset.    
+TX: Serieller Port senden.    
+RX: Serieller Port empfangen.   
+GND: Masse.   
+ 
+ 
  das HLK-LD6001A-60G Radar-Modul mit einem TTL zu USB Serial Port Adapter verwenden. Hier sind die Schritte und Einstellungen, um die Daten zu lesen:
 
 Verbindung herstellen
